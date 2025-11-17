@@ -11,7 +11,6 @@
 - Full-stack software engineer with special interest in the applied AI space
 - I love to turn great ideas into scalable, efficient, and secure software systems.
 
----
 #### 🛠️ Skills
 
 <table>
@@ -73,13 +72,12 @@
   </tr>
 </table>
 
----
 
 #### 🔭 Currently Working On
 
 - **Multi-Modal Knowledge Assistant** — an AI system that lets users refer to large amounts of data with ease
 
----
+
 
 #### 📁 Previous Projects
 
