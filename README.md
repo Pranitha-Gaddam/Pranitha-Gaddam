@@ -7,9 +7,11 @@
   <a href="mailto:gaddam.pranitha29@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-- Computer Science student at the University of North Texas (Graduating Dec. 2025)
-- Full-stack software engineer with special interest in the applied AI space
-- I love to turn great ideas into scalable, efficient, and secure software systems.
+- 👩‍💻 Full-stack Software Engineer
+- 🎓 Bachelor's in Computer Science @ University of North Texas (GPA: 3.95)
+- 💼 Prev @ JBHunt, built features for 35K+ daily users and improved app performance
+- 🔍 Special interest in applied AI, agentic systems, and multimodal RAG
+
 
 #### 🛠️ Skills
 
