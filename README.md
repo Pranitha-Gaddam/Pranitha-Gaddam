@@ -12,7 +12,7 @@
 - I love to turn great ideas into scalable, efficient, and secure software systems.
 
 ---
-## 🛠️ My Technical Skillset
+#### 🛠️ Skills
 
 <table>
   <tr>
@@ -75,19 +75,19 @@
 
 ---
 
-### Projects I'm currently working on
+#### 🔭 Currently Working On
 
 - **Multi-Modal Knowledge Assistant** — an AI system that lets users refer to large amounts of data with ease
 
 ---
 
-### Check out my previous projects
+#### 📁 Previous Projects
 
 - **[Indoor Navigation System](https://github.com/Pranitha-Gaddam/UNT-Discovery-Park-Indoor-Navigation)** — a multi-floor routing system for UNT's engineering building.
 - **[Pomodoro Timer](https://github.com/Pranitha-Gaddam/pomodoro-study-mode)** — a beautiful, customizable pomodoro timer built for deep focus (with audio + background options).
 - **[Accessibility Plugin for Unity](https://github.com/wajdialjedaani/UnityPlugin)** — includes 14+ accessibility checks and auto-generates pass/fail summary reports.
 
-You can explore the rest of my work here 👉 **[My GitHub Repositories](https://github.com/Pranitha-Gaddam?tab=repositories)**
+Explore more of my work here 👉 **[My GitHub Repositories](https://github.com/Pranitha-Gaddam?tab=repositories)**
 
 
 <!--
