@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/pranitha-gaddam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Pranitha-Gaddam" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://pranithagaddam.site" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=aboutdotme&logoColor=white" /></a>
   <a href="mailto:gaddam.pranitha29@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
