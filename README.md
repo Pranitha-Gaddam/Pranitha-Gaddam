@@ -6,7 +6,7 @@
   <a href="mailto:gaddam.pranitha29@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-- 👩‍💻 Full-stack Software Engineer
+- 👩‍💻 Full-stack Software Developer @ ReyRey
 - 🎓 Bachelor's in Computer Science @ University of North Texas (GPA: 3.95)
 - 💼 Prev @ JBHunt, built features for 35K+ daily users and improved app performance
 - 🔍 Special interest in applied AI, agentic systems, and multimodal RAG
