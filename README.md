@@ -81,6 +81,7 @@
 
 #### 📁 Previous Projects
 
+- **[LLM Gateway](https://github.com/Pranitha-Gaddam/llm-gateway)** — a caching reverse proxy for the OpenAI API with exact and semantic tiers, so repeat questions (even reworded ones) are answered from Redis instead of paid for again. [Live demo →](https://llm-gateway-demo.fly.dev/)
 - **[Indoor Navigation System](https://github.com/Pranitha-Gaddam/UNT-Discovery-Park-Indoor-Navigation)** — a multi-floor routing system for UNT's engineering building.
 - **[Pomodoro Timer](https://github.com/Pranitha-Gaddam/pomodoro-study-mode)** — a beautiful, customizable pomodoro timer built for deep focus (with audio + background options).
 - **[Accessibility Plugin for Unity](https://github.com/wajdialjedaani/UnityPlugin)** — includes 14+ accessibility checks and auto-generates pass/fail summary reports.
